@@ -1,1 +1,1 @@
-# GostHunter.github.io
+# GhostHunter.github.io
