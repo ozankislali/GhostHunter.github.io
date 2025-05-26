@@ -8,14 +8,18 @@ ghosthunter/ klasörü içinde yer almaktadır.
 
 Website Linki: https://ozankislali.github.io/GhostHunter.github.io/
  
-
+🛠️ Proje Yönetimi - Trello
 Trello Linki: https://trello.com/b/6nLhY9VX/ghosthunter
 
+🎬 Proje Tanıtım Videosu
 Sunum Videomuz Linki: https://youtu.be/JEvJpFRp_SU
 
 📲 Oyunu İndir
+
 📦 GhostHunter APK Dosyasını İndir
+
 🔹 Android cihazlarda test edilmiştir.
+
 🔹 Kamerayı kullanarak gerçek dünya üzerinde hayalet avına çıkabilirsiniz!
 
 
