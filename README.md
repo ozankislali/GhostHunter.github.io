@@ -1,7 +1,9 @@
 # GhostHunter.github.io
 🌐 Web Sitesi
-Web sitesinin kodları:
-"index.html", "style.css", "script.js"
+### 📂 Web Sitesi Kodları  
+- 🌐 [index.html](https://github.com/ozankislali/GhostHunter.github.io/blob/main/index.html)  
+- 🎨 [style.css](https://github.com/ozankislali/GhostHunter.github.io/blob/main/style.css)  
+- 🧠 [script.js](https://github.com/ozankislali/GhostHunter.github.io/blob/main/script.js)  
 
 Oyunun kaynak kodları:
 ghosthunter/ klasörü içinde yer almaktadır.
