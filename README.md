@@ -26,4 +26,5 @@ Sunum Videomuz Linki: https://youtu.be/JEvJpFRp_SU
 
 
 APK İndirme Linki: https://drive.google.com/file/d/1261TXQGQg-HUo4_ZoyC_uo6GKD8FcAsF/view?usp=sharing
-[Tüm Oyunun Klasörünü İndirebileceğiniz Kaynak Dosyası](https://drive.google.com/file/d/1hSgrEtf9viSybgZsriOznflPY8lVHI3K/view?usp=sharing)
+
+Oyun Kodları için Anroid Studio Kaynak Dosyası:[Tüm Oyunun Klasörünü İndirebileceğiniz Kaynak Dosyası](https://drive.google.com/file/d/1hSgrEtf9viSybgZsriOznflPY8lVHI3K/view?usp=sharing)
