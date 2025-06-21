@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Background Image (replacing camera preview) -->
+    <ImageView
+        android:id="@+id/backgroundImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/background2"
+        android:scaleType="centerCrop" />
+
+    <!-- Ghost Container -->
+    <FrameLayout
+        android:id="@+id/ghostContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!-- UI Elements -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:gravity="center_vertical">
+
+        <!-- Lives Container -->
+        <LinearLayout
+            android:id="@+id/livesContainer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="1" />
+
+        <!-- Score -->
+        <TextView
+            android:id="@+id/scoreText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Score: 0"
+            android:textColor="@android:color/white"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:background="#80000000"
+            android:padding="8dp" />
+
+    </LinearLayout>
+
+</FrameLayout>
