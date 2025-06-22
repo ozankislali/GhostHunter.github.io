@@ -85,7 +85,6 @@ Ancak, oyunculara görsel olarak "hayaletleri gerçek dünyadaymış gibi yakala
 |----------|-----------------|-----------------|----------------|-----------|
 | ![Ana Menü](screenshots/ekran1.png) | ![Oyun Başlangıcı](screenshots/ekran2.png) | ![Hayalet](screenshots/ekran3.png) | ![Seviye](screenshots/ekran4.png) | ![Bitti](screenshots/ekran5.png) |
 
-> Not: Görselleri `screenshots/` klasörüne eklemeyi unutmayın.
 
 ---
 
